@@ -19,11 +19,17 @@ zope.interface==4.1.3
 
 ## Запуск сервиса:
 
-    ./run_server.py 
-
+```
+.run_server.py 
+```
 ## Запуск клиента (без пропатченных сокетов):
 
-    ./client.py
+```
+ ./client.py
+```
 
 ## Запуск клиента (с пропатченными сокетами):
 
+```
+./client.py --use-gevent-sockets
+```
