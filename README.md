@@ -3,13 +3,12 @@
 Не стал создавать requirements.txt
 
 ## Необходимые приложения:
-
-Twisted==15.5.0
-argparse==1.2.1
-gevent==1.0.2
-greenlet==0.4.9
-wsgiref==0.1.2
-zope.interface==4.1.3
+* Twisted==15.5.0
+* argparse==1.2.1
+* gevent==1.0.2
+* greenlet==0.4.9
+* wsgiref==0.1.2
+* zope.interface==4.1.3
 
 ## Данные
 Два подкаталога:
